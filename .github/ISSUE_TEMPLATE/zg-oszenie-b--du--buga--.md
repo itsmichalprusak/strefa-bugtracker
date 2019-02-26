@@ -3,7 +3,7 @@ name: 'Zgłoszenie błędu (buga) '
 about: 'Wybierz ten szablon, jeśli jakaś funkcjonalność nie działa albo działa nie
   tak jak powinna. '
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
